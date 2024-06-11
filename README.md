@@ -142,7 +142,7 @@ pip install imgaug
 
 or install the latest version directly from github:
 ```bash
-pip install git+https://github.com/marcown/imgaug.git
+pip install git+https://github.com/wsq/imgaug.git
 ```
 
 For more details, see the [install guide](https://imgaug.readthedocs.io/en/latest/source/installation.html)
